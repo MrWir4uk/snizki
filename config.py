@@ -1,0 +1,4 @@
+TOKEN = "8517497538:AAG7nY_FC6YlWdv5R4FcrhotWGI_ZL0WANU"
+
+DB_FILE = "snowgame.json"
+COOLDOWN = 1  # 32 хв
